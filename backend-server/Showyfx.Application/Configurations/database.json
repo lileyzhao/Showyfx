@@ -1,0 +1,19 @@
+﻿{
+  "Database1": {
+    "EnablePrintSql": true,
+    "DbConnConfigs": [
+      {
+        "DbType": "MySql",
+        "ConnectionString": "Server=xiix-mys12o.mysql.polardb.rds.aliyuncs.com;Port=5725;Database=showyfx;Uid=sa;Pwd=YWSR9JN7Sr-gO_6Srw070xxfH4-nQs%V;Pooling=true;AllowLoadLocalInfile=true;SslMode=none;CharSet=utf8mb4;ConvertZeroDatetime=True;Allow Zero Datetime=True;AllowUserVariables=true;",
+        "IsInitDb": true,
+        "IsUpdateDb": false,
+        "IsInitSeed": true,
+        "IsUpdateSeed": false,
+        "EnableSnakeCase": true,
+        "EnableDiffLog": true,
+        "TablePrefix": "xx_",
+        "DefaultStringLength": 128
+      }
+    ]
+  }
+}
